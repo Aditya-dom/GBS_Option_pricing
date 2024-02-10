@@ -1,6 +1,6 @@
 # Option_pricing
 ## Python_Option_Pricing
-A libary to price financial options using closed-form solutions written in Python. MIT License.
+A libary to price financial options using closed-form solutions written in Python. [**MIT License**](https://github.com/Aditya-dom/Option_pricing/blob/main/LICENSE).
 ## Includes 
 1. European Options: Black-Scholes, Black76, Merton, Garman-Kohlhagan;
 2. Spread Options: Kirk's Approximation, Heat Rate Options; 
